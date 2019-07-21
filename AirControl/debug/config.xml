@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<config>
+    <deviceID id="90"/>
+    <brand_1 name="格力" index="0,20-29"/>
+    <brand_2 name="美的" index="14-20"/>
+    <brand_2 name="美的" index="14-20"/>
+    <brand_3 name="小霸王" index="15-50"/>
+    <airIndex_1 id="15"/>
+    <airIndex_2 id="0"/>
+    <airIndex_3 id="0"/>
+    <airIndex_4 id="0"/>
+    <temperatureID id="1"/>
+</config>
